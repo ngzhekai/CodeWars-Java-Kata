@@ -5,7 +5,7 @@
 'world'  =>  'dlrow'
 */
 
-// <My Solution>
+// <My Solution> #1
 
 public class Kata {
 
@@ -18,7 +18,9 @@ public class Kata {
 
 }
 
-// --> Best Solution <--
++------------------------------------------------------------------+
+
+// --> Best Solution <-- #2
 
 public class Kata {
 
@@ -28,7 +30,9 @@ public class Kata {
 
 }
 
-// --> Other Smart Solution <--
++-------------------------------------------------------------------+
+ 
+// --> Other Smart Solution <-- #3
 
 public class Kata {
 
